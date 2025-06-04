@@ -1,4 +1,4 @@
-# Andriar 🇮🇩
+# Andriar
 
 ---
 
