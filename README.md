@@ -1,67 +1,32 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Andriar 🇮🇩
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+### Passionate Frontend Engineer 💻 | Crafting Experiences with Vue.js & Nuxt.js ✨
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+Hailing from Indonesia, I'm a dedicated Frontend Engineer constantly exploring the evolving landscape of web development. My heart truly belongs to **Vue.js** ⚛️ and **Nuxt.js** 🚀—frameworks I find incredibly powerful and genuinely enjoy building with. While you'll discover many of my open-source contributions and personal experiments on GitLab, I'm actively expanding my presence and projects right here on GitHub.
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### My Journey in Engineering 🚀
 
-###
+Currently, I'm a Frontend Engineer at an **Omnichannel Customer Service Platform** company 💬. My role involves building intuitive, seamless chat experiences that help connect customers across every channel. It's a dynamic environment where I leverage a diverse toolkit to deliver high-quality, impactful software solutions.
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### My Go-To Technologies & Tools 🛠️
 
-<p align="left">I'm Andriar from Konoha<br><br>- 🔭 I’m working as Frontend Engineer<br>- 📚 I'm currently learning Vue & Nuxt<br></p>
+Here's a peek into the technologies that power my work:
 
-###
+* **Frontend Development:** Vue.js ⚛️, Nuxt.js 🚀, React ⚛️
+* **Backend Development:** Express.js 🌐, Laravel 🐘
+* **Database Management:** PostgreSQL 🐘, MySQL 🐬, Supabase ⚡
+* **DevOps & Containerization:** Docker 🐳
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### Let's Connect & Collaborate! 👋
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+Curious about what I'm building, or perhaps looking to collaborate on an exciting project? Feel free to dive into my repositories, explore my code, and reach out! I'm always open to new challenges and connections.
